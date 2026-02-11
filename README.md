@@ -1,5 +1,5 @@
 # Data-cleaning-and-EDA
-Performed data cleaning and exploratory data analysis using Python (Pandas, NumPy, Matplotlib, Seaborn). Handled missing values, duplicates, incorrect data types, and outliers. Conducted univariate, bivariate, and multivariate analysis to identify patterns, correlations, and business insights, preparing the dataset for reporting and decision-making
+Performed data cleaning and exploratory data analysis using Python (Pandas, NumPy). Handled missing values, duplicates, incorrect data types, and outliers. Conducted univariate, bivariate, and multivariate analysis to identify patterns, correlations, and business insights, preparing the dataset for reporting and decision-making
 Project Overview
 
 This project focuses on cleaning raw data and performing Exploratory Data Analysis (EDA) to improve data quality and extract meaningful insights. The goal of this project is to transform messy, inconsistent data into a structured and reliable dataset that can be used for business analysis, reporting, or machine learning.
